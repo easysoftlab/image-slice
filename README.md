@@ -33,7 +33,7 @@ At just $0.99 — far less than half a cup of coffee — this app is a truly cap
 
 ### 📸 Supported Formats
 
-表格
+
 
 | Type | Formats |
 | --- | --- |
@@ -42,7 +42,7 @@ At just $0.99 — far less than half a cup of coffee — this app is a truly cap
 
 ### ⚙️ Slice Settings
 
-表格
+
 
 | Setting | Options |
 | --- | --- |
@@ -64,15 +64,15 @@ At just $0.99 — far less than half a cup of coffee — this app is a truly cap
 #### 🌐 Free Online Web Version
 
 Slice your images instantly in your browser — no installation, no registration required.
-
-**Link:** [https://www.easysoftlab.com/pic-slice/](https://www.easysoftlab.com/pic-slice/)
+[![Open Web Version](https://img.shields.io/badge/Open_Web_Version-2563eb?style=for-the-badge&logo=web&logoColor=white)](https://image-slice.pages.dev/)
+**Link:** https://image-slice.pages.dev/
 
 #### 🖥️ Microsoft Store Desktop App
 
 Get the full-featured desktop version from Microsoft Store for a native Windows experience with batch processing, templates and full offline support.
 
 > 
-> Replace the link above with your official Microsoft Store product URL.
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9msv7p5fcb54)
 
 ### 🔒 Privacy First
 
@@ -89,7 +89,7 @@ All image slicing happens locally on your device. **No images, files or personal
 
 ### Powered by
 
-Easy Soft Creator
+ https://www.easysoftlab.com/
 
 ---
 
@@ -118,7 +118,7 @@ Für nur 0,99 $ – weit weniger als ein halber Kaffee – ist diese App ein lei
 
 ### 📸 Unterstützte Formate
 
-表格
+ 
 
 | Typ | Formate |
 | --- | --- |
@@ -127,7 +127,7 @@ Für nur 0,99 $ – weit weniger als ein halber Kaffee – ist diese App ein lei
 
 ### ⚙️ Zuschneideeinstellungen
 
-表格
+ 
 
 | Einstellung | Optionen |
 | --- | --- |
@@ -150,14 +150,14 @@ Für nur 0,99 $ – weit weniger als ein halber Kaffee – ist diese App ein lei
 
 Schneiden Sie Ihre Bilder sofort im Browser zu – keine Installation, keine Registrierung erforderlich.
 
-**Link:** [https://www.easysoftlab.com/pic-slice/](https://www.easysoftlab.com/pic-slice/)
+ [![Open Web Version](https://img.shields.io/badge/Open_Web_Version-2563eb?style=for-the-badge&logo=web&logoColor=white)](https://image-slice.pages.dev/)
 
 #### 🖥️ Microsoft Store Desktop-App
 
 Holen Sie sich die voll funktionsfähige Desktop-Version aus dem Microsoft Store für eine native Windows-Oberfläche mit Stapelverarbeitung, Vorlagen und vollständiger Offline-Unterstützung.
 
 > 
-> Ersetzen Sie den Link oben durch Ihre offizielle Microsoft Store Produkt-URL.
+[![Get it from Microsoft](https://get.microsoft.com/images/en-us%20dark.svg)](https://apps.microsoft.com/detail/9msv7p5fcb54)
 
 ### 🔒 Datenschutz an erster Stelle
 
@@ -174,4 +174,4 @@ Alle Bildzuschnitte laufen lokal auf Ihrem Gerät ab. **Keine Bilder, Dateien od
 
 ### Entwickelt von
 
-Easy Soft Creator
+ https://www.easysoftlab.com/
